@@ -1,0 +1,7 @@
+name: myenv_project_mini_project
+channels: 
+- conda-forge
+dependencies:
+- python=3.11
+- pandas=2.2
+- scikit-learn=1.5
